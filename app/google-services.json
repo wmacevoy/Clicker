@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375965281898",
+    "firebase_url": "https://clicker-a2eae.firebaseio.com",
+    "project_id": "clicker-a2eae",
+    "storage_bucket": "clicker-a2eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375965281898:android:248d28de15e33eb7",
+        "android_client_info": {
+          "package_name": "edu.coloradomesa.cs.clicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375965281898-60ean6g8bb1e1i9piakqdk6esjabqlr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.coloradomesa.cs.clicker",
+            "certificate_hash": "D1E42AD876C35FF398623280C3ECF67E58E8CD88"
+          }
+        },
+        {
+          "client_id": "375965281898-p0kd0p59060ce4coh2oo0j62kcdaogmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSJ0GpFxUfU-S-pSaB6NwZPZVOuLUdiV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375965281898-p0kd0p59060ce4coh2oo0j62kcdaogmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
